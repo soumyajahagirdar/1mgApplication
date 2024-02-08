@@ -1,0 +1,9 @@
+2023-04-06 10:04:467 INFO  LoggerHelper:117 - Entered goToHomePage succesfully
+2023-04-06 10:04:519 INFO  LoggerHelper:101 - verify home page is displayed succesfully
+2023-04-06 10:04:798 INFO  LoggerHelper:103 - verified home page is displayed succesfully
+2023-04-06 10:04:817 INFO  LoggerHelper:131 - click on location box successfully
+2023-04-06 10:04:892 INFO  LoggerHelper:162 - Clicked on  location box  successfully
+2023-04-06 10:04:896 INFO  LoggerHelper:177 - verify entered location page successfully
+2023-04-06 10:04:60 INFO  LoggerHelper:182 - verified entered location page successfully
+2023-04-06 10:04:65 INFO  LoggerHelper:196 - click on search box successfully
+2023-04-06 10:04:363 ERROR LoggerHelper:228 -  search box   is not executed succesfully
